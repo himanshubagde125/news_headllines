@@ -1,2 +1,2 @@
 # news_headllines
- this website  basically combine all the headlines of differnt newspapers so thst we can read that news  an we dont go somewhre else
+ This website combines all the headlines from different newspapers so that user can read the news headlines  of differnt newsapper  without having to go website.
